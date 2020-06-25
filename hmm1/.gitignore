@@ -1,0 +1,5 @@
+
+test/text_repo/node_modules
+*.DS_STORE
+*.idea
+_test/*
